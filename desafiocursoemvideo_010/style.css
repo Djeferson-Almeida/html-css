@@ -20,7 +20,7 @@ a{
 }
 header{
     margin: auto;
-    padding: 40px;
+    padding-top: 40px;
     background-image:linear-gradient(to top,#037034,#01a03e,#58f079d7);
 }
 
@@ -75,7 +75,7 @@ nav >a:hover{
     background-color: #025a29;
     color: white;
     font-weight: bold;
-    box-shadow: 1px 1px 1px black;
+    
 }
 main{
     
